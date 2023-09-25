@@ -1,2 +1,8 @@
-﻿LINK : warning LNK4098: 默认库“MSVCRT”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
-  GLAXY.vcxproj -> E:\Computer Graph\GLAXY\x64\Debug\GLAXY.exe
+﻿  GLAXY.cpp
+E:\Computer Graph\GLAXY\GLAXY\GLAXY.cpp(232,33): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\Computer Graph\GLAXY\GLAXY\GLAXY.cpp(233,37): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\Computer Graph\GLAXY\GLAXY\GLAXY.cpp(235,44): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\Computer Graph\GLAXY\GLAXY\GLAXY.cpp(236,44): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  LINK : 没有找到 E:\Computer Graph\GLAXY\GLAXY\x64\Debug\GLAXY.exe 或上一个增量链接没有生成它；正在执行完全链接
+LINK : warning LNK4098: 默认库“MSVCRT”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+  GLAXY.vcxproj -> E:\Computer Graph\GLAXY\GLAXY\x64\Debug\GLAXY.exe
